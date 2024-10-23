@@ -67,7 +67,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <input type="file" class="form-control" id="profile_pic" name="profile_pic">
             </div>
             <div class="col-12">
-                <button class="btn btn-primary w-100" type="submit">Add User</button>
+                <button class="btn btn-primary w-100" type="submit">Add </button>
             </div>
         </form>
     </div>
