@@ -40,7 +40,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 <body>
     <div class="container mt-5">
-        <h2 class="text-center">Add New User</h2>
+        <h2 class="text-center">Add New Admin/User</h2>
         <a href="admin_dashboard.php" class="btn btn-secondary mb-3">Back to Dashboard</a>
         <form method="POST" action="" enctype="multipart/form-data" class="row g-3">
             <div class="col-md-6">
