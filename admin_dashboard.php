@@ -71,7 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['delete'])) {
             </table>
         </div>
 
-        <a href="add_user.php" class="btn btn-success">Add New User</a>
+        <a href="add_user.php" class="btn btn-success">Add New</a>
         <br><br><a href="logout.php" class="btn btn-secondary mb-3">Logout</a>
 
     </div>
